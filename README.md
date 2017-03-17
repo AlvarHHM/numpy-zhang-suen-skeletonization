@@ -1,5 +1,6 @@
 # numpy-zhang-suen-skeletonization
 Implementation of zhang-suen using numpy
+
 Huge speedup compare to pixel looping implementation in pure python
 
 ```python
